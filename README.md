@@ -12,7 +12,7 @@ The dataset `Expanded_data_with_more_features.csv` includes features such as:
 - MathScore, ReadingScore, WritingScore
 - WklyStudyHours (Weekly Study Hours)
 
-# Usage
+## Usage
 Data Exploration: View data summary, null values, and column transformations.
 
 Visualizations:
@@ -25,7 +25,7 @@ Score distributions (boxplots)
 
 Ethnic group distribution (pie chart and countplot)
 
-# Key Findings
+## Key Findings
 Gender Distribution: Female students outnumber males.
 
 Parental Education: Higher parental education correlates with better student scores.
